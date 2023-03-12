@@ -25,33 +25,22 @@ In the DMZ network, we plan to deploy a mail server and a web server using Windo
 
 - <b>Virtualbox</b>
 
-<h2>Part 1</h2>
+## [Part 1](https://youtu.be/chg6lG-5gS4)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/118945715/217675129-8c40c08e-e509-46d4-897c-2c13d7c0a06e.png" height="85%" width="85%" alt="Part 1"/>
 </p>
 
-<h2>Part 2</h2>
+## [Part 2](https://youtu.be/nEWB6kIWWpI)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/118945715/217675423-89e88974-f376-4681-8cc5-f1a4d12bb2d7.png" height="85%" width="85%" alt="Part 2"/>
 </p>
 
-<h2>Part 3</h2>
+## [Part 3](https://youtu.be/usht3Bova1A)
 
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/118945715/217675704-e76809a8-2ba5-4475-bfe9-b6dc881ff2de.png" height="85%" width="85%" alt="Part 3"/>
 </p>
 
-
-
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
